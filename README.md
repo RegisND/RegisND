@@ -9,7 +9,11 @@
 
 - 📫 How to reach me **regis.dias1982@hotmail.com**
 
-- 📄 Know about my experiences [My current experiences and skillset primarily revolve around the topics I've been learning through the Santander Bootcamp 2023, which includes HTML, CSS, JavaScript, Angular, and Java. This intensive program has provided me with a solid foundation in these technologies, and I'm eager to further expand my knowledge and expertise.](My current experiences and skillset primarily revolve around the topics I've been learning through the Santander Bootcamp 2023, which includes HTML, CSS, JavaScript, Angular, and Java. This intensive program has provided me with a solid foundation in these technologies, and I'm eager to further expand my knowledge and expertise.)
+- 📄Know about my experiences
+  ```
+  My current experiences and skillset primarily revolve around the topics I've been learning through the Santander Bootcamp 2023, which includes HTML, CSS, JavaScript, Angular, and Java.
+  This intensive program has provided me with a solid foundation in these technologies, and I'm eager to further expand my knowledge and expertise.
+  ```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
