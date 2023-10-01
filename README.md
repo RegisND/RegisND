@@ -1,32 +1,88 @@
-<h1 align="center">Hi there👋, I'm Reginaldo Dias</h1>
-<h3 align="center">A passionate Full-stack developer from Brazil</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=regisnd&label=Profile%20views&color=0e75b6&style=flat" alt="regisnd" /> </p>
+[![**Typing SVG**](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Reginaldo+Dias!;Welcome+to+my+GitHub+Profile!+😁)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=regisnd" alt="regisnd" /></a> </p>
+<h2 style="color: 90EE90"> <strong>About Me</strong> </h2>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Angular, Java, and pursuing a Data Science course at EBAC. 🌐🚀**
+Aspiring **Software Developer** from **São Paulo/SP - Brazil**, diving into the world of **Agile methodologies**. 🚀 
 
-- 📫 How to reach me **regis.dias1982@hotmail.com**
+My programming journey began with a **'Hello World'** in a **Data Science** course at **EBAC**, which I'm currently pursuing. Additionally, I'm actively participating in the **Santander Bootcamp 2023 Java + Angular**, where I'm gaining expertise in **HTML, CSS, JavaScript, Java, and Angular**. Due to my tech passion, I've been mading a career shift. 
 
-- 📄Know about my experiences
-  ```
-  My current experiences and skillset primarily revolve around the topics I've been learning through the Santander Bootcamp 2023, which includes HTML, CSS, JavaScript, Angular, and Java.
-  This intensive program has provided me with a solid foundation in these technologies, and I'm eager to further expand my knowledge and expertise.
-  ```
+🎮 My **hobbies** include gaming with friends, especially in fighting games... 💥🥊... Perhaps we can team up for some matches... 😉. I'm also an avid **anime**, **movies**, and **TV series watcher**, and I love getting together with friends to enjoy **pizza**, **card** and **board games**... 💪💪💪
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/reginaldo-neves-dias-00ba43249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reginaldo-neves-dias-00ba43249" height="30" width="40" /></a>
-<a href="https://discord.gg/killua_to_gon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="killua_to_gon" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h2 style="color: 90EE90"> <strong>Markup and Style Languages</strong> </h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=regisnd&show_icons=true&locale=en&layout=compact" alt="regisnd" /></p>
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regisnd&show_icons=true&locale=en" alt="regisnd" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=regisnd&" alt="regisnd" /></p>
+<h2 style="color: 90EE90"> <strong>Programming Languages</strong> </h2>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+
+<br>
+
+<h2 style="color: 90EE90"> <strong>Frameworks</strong> </h2>
+
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+
+<br>
+
+<h2 style="color: 90EE90"> <strong>Tools</strong> </h2>
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=#8CC84B)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/intellij_idea-000?style=for-the-badge&logo=intellij-idea&logoColor=3713c6)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-000?style=for-the-badge&logo=pycharm&logoColor=90e063)&nbsp;
+![Google Colab](https://img.shields.io/badge/google_colab-000?style=for-the-badge&logo=google-colab&logoColor=#F9AB00)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-000?style=for-the-badge&logo=jupyter&logoColor=#F9AB00)&nbsp;
+![Notion](https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion&logoColor=fff)&nbsp;
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=#6DA447)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
+<br>
+
+<h2 style="color: 90EE90"> <strong>Soft Skills</strong> </h2>
+
+![Communicative](https://img.shields.io/badge/Communicative-000?style=for-the-badge)
+![Proactive](https://img.shields.io/badge/Proactive-000?style=for-the-badge)
+![Organized](https://img.shields.io/badge/Organized-000?style=for-the-badge)
+![Empathetic](https://img.shields.io/badge/Empathetic-000?style=for-the-badge)
+
+<br>
+
+[![Regis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RegisND&bg_color=0E6305&color=00FF00&line=FFFF00&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+<h2 style="color: 90EE90"> <strong>GitHub Stats</strong> </h2>
+
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RegisND&theme=transparent&bg_color=0E6305&border_color=00FF00&show_icons=true&icon_color=00FF00&title_color=90EE90&text_color=FFFF00)
+
+<br>
+
+<h2 style="color: 90EE90"> <strong>My Projects</strong> </h2>
+
+<br>
+
+[![Repo DIO Versionamento de Código com Git e GitHub](https://github-readme-stats.vercel.app/api/pin/?username=RegisND&repo=dio-lab-open-source&bg_color=0E6305&border_color=00FF00&show_icons=true&icon_color=00FF00&title_color=90EE90&text_color=FFFF00)](https://github.com/RegisND/dio-curso-git-github.git)
+
+<br>
+
+<h2 style="color: 90EE90"> <strong>Connect with me</strong> </h2>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/RegisND)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![DIO](https://img.shields.io/badge/DIO-000?style=for-the-badge&logo=dio&logoColor=fff)](https://web.dio.me/users/killuatogon/?tab=achievements)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/killua_to_gon/)
 
