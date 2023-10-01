@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
 
-[![**Typing SVG**](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Reginaldo+Dias!;Welcome+to+my+GitHub+Profile!+😁)](https://git.io/typing-svg)
+[![**Typing SVG**](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I'm+Reginaldo+Dias!;Welcome+to+my+GitHub+Profile!+😁)](https://git.io/typing-svg)
 
 <h2 style="color: 90EE90"> <strong>About Me</strong> </h2>
 
@@ -59,21 +59,19 @@ My programming journey began with a **'Hello World'** in a **Data Science** cour
 
 <br>
 
+<h2 style="color: 90EE90"> <strong>My GitHub Activity Graph</strong> </h2>
+
 [![Regis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RegisND&bg_color=0E6305&color=00FF00&line=FFFF00&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
 <h2 style="color: 90EE90"> <strong>GitHub Stats</strong> </h2>
 
-<br>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RegisND&theme=transparent&bg_color=0E6305&border_color=00FF00&show_icons=true&icon_color=00FF00&title_color=90EE90&text_color=FFFF00)
 
 <br>
 
 <h2 style="color: 90EE90"> <strong>My Projects</strong> </h2>
-
-<br>
 
 [![Repo DIO Versionamento de Código com Git e GitHub](https://github-readme-stats.vercel.app/api/pin/?username=RegisND&repo=dio-lab-open-source&bg_color=0E6305&border_color=00FF00&show_icons=true&icon_color=00FF00&title_color=90EE90&text_color=FFFF00)](https://github.com/RegisND/dio-curso-git-github.git)
 
