@@ -83,5 +83,3 @@ My programming journey began with a **'Hello World'** in a **Data Science** cour
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/SEUUSERNAME/)
 [![DIO](https://img.shields.io/badge/DIO-000?style=for-the-badge&logo=dio&logoColor=fff)](https://web.dio.me/users/killuatogon/?tab=achievements)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/killua_to_gon/)
-
-![Snake animation](https://github.com/RegisND/RegisND/blob/output/github-contribution-grid-snake.svg)
