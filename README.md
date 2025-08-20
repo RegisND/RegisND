@@ -2,6 +2,9 @@
 
 [![**Typing SVG**](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I'm+Reginaldo+Dias!;Welcome+to+my+GitHub+Profile!+😁)](https://git.io/typing-svg)
 
+<img width=100% src="https://miro.medium.com/v2/resize:fit:1000/1*ddFiOsN95srII4yXYyPDBA.gif"/>
+
+-------------------------------------------------------------------------------------------------
 <h2 style="color: 90EE90"> <strong>About Me</strong> </h2>
 
 Aspiring **Software Developer** from **São Paulo/SP - Brazil**, diving into the world of **Agile methodologies**. 🚀 
@@ -25,6 +28,7 @@ My programming journey began with a **'Hello World'** in a **Data Science** cour
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![VBA](https://img.shields.io/badge/vba-000?style=for-the-badge&logo=vba)
 
 <br>
 
